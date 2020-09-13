@@ -2,13 +2,6 @@
 
 simple clock writen in Go
 
-#░░   ░░░       ░░░  ░░░       ░░░  ░░░  
-# ░     ░   □   ░    ░     □   ░ ░  ░ ░  
-# ░   ░░░   □   ░░░  ░░░   □   ░ ░  ░░░  
-# ░   ░           ░  ░ ░       ░ ░    ░  
-#░░░  ░░░       ░░░  ░░░       ░░░  ░░░ 
-
-
 
 Debian based:
 sudo apt update golang
