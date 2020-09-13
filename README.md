@@ -4,7 +4,7 @@ simple clock writen in Go
 
 
 Debian based:
-sudo apt update golang
+sudo apt install golang
 
 Arch based:
 sudo pacman -S golang
