@@ -3,10 +3,10 @@
 simple clock writen in Go
 
 
-Debian based:
+Debian based:\n
 sudo apt update golang
 
-Arch based:
+Arch based:\n
 sudo pacman -S golang
 
 
