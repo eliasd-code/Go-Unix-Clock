@@ -2,11 +2,21 @@
 
 simple clock writen in Go
 
+░░   ░░░       ░░░  ░░░       ░░░  ░░░  
+ ░     ░   □   ░    ░     □   ░ ░  ░ ░  
+ ░   ░░░   □   ░░░  ░░░   □   ░ ░  ░░░  
+ ░   ░           ░  ░ ░       ░ ░    ░  
+░░░  ░░░       ░░░  ░░░       ░░░  ░░░ 
+
+
+
 Debian based:
 sudo apt update golang
 
 Arch based:
 sudo pacman -S golang
+
+
 
 Compile :
 go get -e github.com/inancgumus/screen
@@ -18,3 +28,6 @@ go get -e github.com/inancgumus/screen
 go run main.go
 
 
+Run Compiled:
+chmod +x x64_main
+./x64_main
