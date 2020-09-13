@@ -21,6 +21,6 @@ go get -e github.com/inancgumus/screen
 go run main.go
 
 
-Run Compiled:
+Run Compiled:(Linux)
 chmod +x x64_main
-./x64_main
+./x64_main 
